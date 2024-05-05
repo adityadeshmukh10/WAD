@@ -1,0 +1,20 @@
+[
+    {
+      "name": "Vaishnavi",
+      "email": "vaishnavi.doe@example.com",
+      "password": "password123",
+      "phone": "3454364366"
+    },
+    {
+      "name": "shruti",
+      "email": "shruti.doe@example.com",
+      "password": "password456",
+      "phone": "343255435"
+    },
+    {
+      "name": "wed",
+      "email": "wed.smith@example.com",
+      "password": "password789",
+      "phone": "4436546547"
+    }
+  ]
